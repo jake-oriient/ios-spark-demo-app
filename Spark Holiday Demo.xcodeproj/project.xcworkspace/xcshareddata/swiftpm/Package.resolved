@@ -1,0 +1,15 @@
+{
+  "originHash" : "4b474f629fcdb0314b4b692adcf312b62be9d316bb62f430d87f43c389f2f06d",
+  "pins" : [
+    {
+      "identity" : "ipsframework-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://gitlab.com/oriient-public/ipsframework-spm.git",
+      "state" : {
+        "revision" : "2a6d8c17ad831b62136654ae0951b56cc1934674",
+        "version" : "9.6.2"
+      }
+    }
+  ],
+  "version" : 3
+}
